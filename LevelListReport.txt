@@ -1,0 +1,25 @@
+4b6d07d6-f84d-11dd-be32-c64eaca26b06
+LevelReportingAsset 4b6d07d7-fe4d-11dd-a232-c64e4c926b06
+	$::Asset
+		$::DataContainer
+		Name LevelListReport
+	BuiltLevels::array
+		member(0) Levels/FrontEnd/FrontEnd/Description_Ps3/d3167375-ff0b-e34a-56cc-b12561c63deb
+		member(1) Levels/SP/SP_Prologue/SP_Prologue/Description_Ps3/411f08e0-fba1-3248-8dc5-3b773849f62a
+		member(2) Levels/MP/MP_Naval/MP_Naval/Description_Ps3/21eb26af-9ffd-e8a5-3813-9602289c597c
+		member(3) Levels/MP/MP_Siege/MP_Siege/Description_Ps3/ba2ad7cc-21ea-4e4d-0c75-8baf531a651d
+		member(4) Levels/MP/MP_Abandoned/MP_Abandoned/Description_Ps3/41678a41-ca31-80db-4b63-8d0748bba90a
+		member(5) Levels/MP/MP_TheDish/MP_TheDish/Description_Ps3/da8ffdd2-e200-eb2a-30e3-81c1abb7e9ba
+		member(6) Levels/MP/MP_Resort/MP_Resort/Description_Ps3/9c9b06c3-922e-2bb2-63b6-51ee17cb341b
+		member(7) Levels/MP/MP_Playground/MP_Playground/Description_Ps3/b46b0470-1bf4-e487-bdbf-4e62f8129abd
+		member(8) Levels/SP/SP_Prison/SP_Prison/Description_Ps3/b360bbae-0054-a2b6-f166-ebf382b5a3d5
+		member(9) Levels/MP/MP_Damage/MP_Damage/Description_Ps3/04d89c46-7f60-fd9d-f0ae-48a1fb975677
+		member(10) Levels/MP/MP_Tremors/MP_Tremors/Description_Ps3/afc081c2-9262-2f98-34cc-c587a1fd1d76
+		member(11) Levels/SP/SP_Airfield/SP_Airfield/Description_Ps3/f6729774-37f6-10fd-113b-96288effe433
+		member(12) Levels/SP/SP_Suez/SP_Suez/Description_Ps3/48877517-9961-ec20-57b9-6573ed513b97
+		member(13) Levels/SP/SP_Shanghai/SP_Shanghai/Description_Ps3/49dcbbfa-dab9-5a74-6ef6-de9514e0f3f7
+		member(14) Levels/MP/MP_Journey/MP_Journey/Description_Ps3/24499a05-68fa-b6fc-4b1e-ad43848a1740
+		member(15) Levels/MP/MP_Prison/MP_Prison/Description_Ps3/67ac19ad-2d2c-24b6-78fd-54633bd72eb2
+		member(16) Levels/SP/SP_Dam/SP_Dam/Description_Ps3/ea7532d3-23f8-8bbf-59ae-d36f081e5544
+		member(17) Levels/SP/SP_Naval/SP_Naval/Description_Ps3/1e38e579-7197-b17e-a175-d01a6d326723
+		member(18) Levels/MP/MP_Flooded/MP_Flooded/Description_Ps3/fe3c5336-4c79-fc15-75dd-25ce209417c0

@@ -1,0 +1,7 @@
+8a71cfcf-76f4-4356-aeb1-254d6b52b211
+TextureAsset d0919e5e-51aa-45a2-8ca3-055067365df3
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name XP0/Levels/SP_Tank/Props/Smokeplume/VistaSmokeDetail_01_D
+		Resource 13515152547500338001 #xp0/levels/sp_tank/props/smokeplume/vistasmokedetail_01_d

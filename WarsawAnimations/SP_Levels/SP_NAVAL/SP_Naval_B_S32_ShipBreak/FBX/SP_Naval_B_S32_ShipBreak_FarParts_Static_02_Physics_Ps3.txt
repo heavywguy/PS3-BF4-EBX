@@ -1,0 +1,9 @@
+cfac7638-8ada-d2f4-0599-86e1fe1d4934
+HavokAsset cfac7638-8ada-d2f4-0599-86e1fe1d4934
+	$::Asset
+		$::DataContainer
+		Name WarsawAnimations/SP_Levels/SP_NAVAL/SP_Naval_B_S32_ShipBreak/FBX/SP_Naval_B_S32_ShipBreak_FarParts_Static_02_Physics_Ps3
+	NumShapeKeysInContactPointProperties::array
+		member(0) 3
+	Resource 7319437104789404503 #warsawanimations/sp_levels/sp_naval/sp_naval_b_s32_shipbreak/fbx/sp_naval_b_s32_shipbreak_farparts_static_02_physics_ps3
+	ExternalAssets *nullArray*
